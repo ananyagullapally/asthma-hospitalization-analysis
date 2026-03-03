@@ -36,7 +36,7 @@ All datasets were cleaned and joined using standardized 5-digit county FIPS code
 * GitHub
 
 ## Walkthrough
-See [!SQL_LOGIC](./assets/dashboard-asthma.jpg) for a full demo of dashboard interactivity and insights.
+See ![SQL_LOGIC](./assets/dashboard-asthma.jpg) for a full demo of dashboard interactivity and insights.
 
 ## Repository Contents
 ```
