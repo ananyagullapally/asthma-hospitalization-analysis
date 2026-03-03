@@ -43,7 +43,7 @@ See Asthma Hospitalization Dashboard for a full demo of dashboard interactivity 
 ```
 asthma-hospitalization-analysis/
 ├── asthma_dashboard.twbx
-├── dashboard_asthma.jpg
+├── dashboard_asthma.mov
 ├── images/dashboard_preview.png
 └── README.md
 ```
